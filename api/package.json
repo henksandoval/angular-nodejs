@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbachi/angular-nodejs-example.git"
+    "url": "git+https://github.com/henksandoval/angular-nodejs"
   },
-  "author": "Bhargav Bachina",
+  "author": "Henk Sandoval",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bbachi/angular-nodejs-example/issues"
+    "url": "https://github.com/henksandoval/angular-nodejs/issues"
   },
-  "homepage": "https://github.com/bbachi/angular-nodejs-example#readme",
+  "homepage": "https://github.com/henksandoval/angular-nodejs#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
